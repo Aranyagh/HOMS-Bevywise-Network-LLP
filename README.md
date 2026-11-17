@@ -1,1 +1,1 @@
-# HOMS-Bevywise-Network-LLP
+# Hospital Outpatient Management System.
