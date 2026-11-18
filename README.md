@@ -12,6 +12,16 @@ Few things to keep in mind:
 - Maintain code hygiene, readability
 - Follow [DRY](https://www.baeldung.com/cs/dry-software-design-principle) principle strictly
 
+## Status
+
+| Module | Status |
+|---|---|
+| API: authentication (login/register) | Done |
+| Admin (hospital) frontend: login/signup | Done |
+| Doctor, receptionist frontends: login/signup | Done |
+| Appointments, billing, prescriptions, patient history | In progress |
+| Pharmacist and patient frontends | Not started |
+
 ### Modules
 ---------------------
 
