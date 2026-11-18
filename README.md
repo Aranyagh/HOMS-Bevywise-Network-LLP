@@ -16,9 +16,10 @@ Few things to keep in mind:
 
 | Module | Status |
 |---|---|
-| API: authentication (login/register) | Done |
-| Admin (hospital) frontend: login/signup | Done |
-| Doctor, receptionist frontends: login/signup | Done |
+| API: login/register with JWT | Working |
+| Admin portal (static HTML) | Working |
+| Doctor portal | Working |
+| Receptionist portal | Working |
 | Appointments, billing, prescriptions, patient history | In progress |
 | Pharmacist and patient frontends | Not started |
 
