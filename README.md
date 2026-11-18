@@ -1,5 +1,4 @@
-# Hospital Outpatient Management System.
-
+![image](project.png)
 
 Below is the basic architecture and definition for the different modules.
 
